@@ -1,7 +1,5 @@
 # Kibana/Elastic Network Scanner
 
-![Banner](https://prnt.sc/A9zLQtJeFKF4) <!-- Substitua com um link para umbanner ou imagem relevante -->
-
 ## Descrição
 
 Este repositório contém um poderoso script de varredura de rede projetado para detectar serviços Kibana e Elastic rodando em uma infraestrutura específica. O script verifica blocos de IPs configuráveis, identifica portas abertas, e tenta acessar serviços via HTTP para confirmar sua operacionalidade. Ao final, exibe um resumo dos resultados, incluindo o total de IPs verificados e URLs dos serviços encontrados.
