@@ -76,7 +76,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## Créditos
 
-Criado por: **Ailton Rocha**
+Criado por: **Lyon.**
 
 ---
 
