@@ -107,7 +107,7 @@ def display_banner(start_time):
     print(Fore.CYAN + banner)
     print(Fore.CYAN + "       Kibana/Elastic Network Scanner        ")
     print(Fore.CYAN + "          ThreatHunting Detection           ")
-    print(Fore.CYAN + "           Criador: Ailton Rocha           \n" + Style.RESET_ALL)
+    print(Fore.CYAN + "              Criador: Lyon.               \n" + Style.RESET_ALL)
     print("-----------------------------------------------")
     print(f"{Fore.YELLOW}[+] Data e Hora de Início: {start_time.strftime('%Y-%m-%d %H:%M:%S')}{Style.RESET_ALL}")
     print(f"{Fore.YELLOW}[+] Redes a serem escaneadas: {', '.join([str(block) for block in blocks_of_ips])}{Style.RESET_ALL}")
