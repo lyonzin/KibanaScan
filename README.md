@@ -40,8 +40,8 @@ pip install requests colorama tqdm
 1. **Clone o Repositório:**
 
    ```bash
-   git clone https://github.com/ailtonrocha/kibana-elastic-network-scanner.git
-   cd kibana-elastic-network-scanner
+   git clone https://github.com/lyonzin/KibanaScan.git
+   cd KibanaScan
    ```
 
 2. **Configure os Blocos de IPs:**
