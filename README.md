@@ -1,6 +1,6 @@
 # Kibana/Elastic Network Scanner
 
-![Banner]([Kibana Script](https://prnt.sc/A9zLQtJeFKF4)) <!-- Substitua com um link para um banner ou imagem relevante -->
+![Banner](https://prnt.sc/A9zLQtJeFKF4) <!-- Substitua com um link para um banner ou imagem relevante -->
 
 ## Descrição
 
