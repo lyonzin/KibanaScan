@@ -23,7 +23,7 @@
 # - Número de threads: Ajustável para controlar o paralelismo.
 #
 # Créditos:
-# Ailton Rocha
+# Lyon
 # --------------------------------------------------------------
 
 import socket
